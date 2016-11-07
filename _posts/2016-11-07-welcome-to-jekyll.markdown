@@ -10,8 +10,8 @@ Already have modified the new post, simply changing things for this post to get 
 
 If you want to learn more about Jekyll, just check out the [Jekyll docs][jekyll-docs] and get the most out of Jekyll. 
 {% highlight ruby %} 
-Or you can contact me at the email: [leondrisalas@gmail.com][leondrisalas-email].
-{% endhighlight %}
+Or you can contact me at the email:
+{% endhighlight %} [leondrisalas@gmail.com][leondrisalas-email]
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [leondrisalas-email]: mailto:leondrisalas@gmail.com
