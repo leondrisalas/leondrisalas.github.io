@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   It's just a test Website for the Codecademy course about Deploy a Website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ponkicool.github.io/" # the base hostname & protocol for your site
-twitter_username: ponkicool
+twitter_username: leondrisalas
 github_username:  ponkicool
 
 # Build settings
